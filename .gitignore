@@ -12,7 +12,6 @@ src/GradeBook/obj/GradeBook.csproj.nuget.g.props
 src/GradeBook/obj/GradeBook.csproj.nuget.g.targets
 src/GradeBook/obj/project.assets.json
 src/GradeBook/obj/project.nuget.cache
-test/GradeBook.Tests/Gradebook.tests.csproj
 test/GradeBook.Tests/bin/BNB/Debug/netcoreapp3.1/GradeBook.dll
 test/GradeBook.Tests/bin/BNB/Debug/netcoreapp3.1/GradeBook.exe
 test/GradeBook.Tests/bin/BNB/Debug/netcoreapp3.1/GradeBook.pdb
@@ -250,3 +249,4 @@ test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.csprojAssemblyRefer
 test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.dll
 test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.genruntimeconfig.cache
 test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.pdb
+Scott's Grade Book.txt
